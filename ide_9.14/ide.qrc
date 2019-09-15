@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/closefl.bmp</file>
+        <file>image/newsrc.bmp</file>
+        <file>image/opnproj.bmp</file>
+        <file>image/save.bmp</file>
+        <file>image/compile.bmp</file>
+        <file>image/comprun.bmp</file>
+        <file>image/run.bmp</file>
+        <file>image/title.jpg</file>
+        <file>help/help.pdf</file>
+    </qresource>
+</RCC>
